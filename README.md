@@ -116,6 +116,16 @@ Store the API key securely and configure it before running the application.
 
 ---
 
+## Demo
+
+### Upload PDF
+<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/53a6fdff-cdac-455b-9b4f-71f602704aa8" />
+
+
+### Generated Summary
+<img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/4bb78ea8-f2ae-4396-812f-92b0bd174163" />
+
+
 ## 👩‍💻 Author
 
 Shagun Ojha
