@@ -5,4 +5,4 @@ PyPDF2
 sentencepiece
 accelerate
 python-dotenv
-google-generatuveai
+google-generativeai
