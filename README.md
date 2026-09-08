@@ -58,7 +58,7 @@ AI_Notes_Assistant/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/AI_Notes_Assistant.git
+git clone https://github.com/shagunxv/AI_Notes_Assistant.git
 cd AI_Notes_Assistant
 ```
 
