@@ -9,7 +9,7 @@ if upload:
     with st.spinner("Reading PDF..."):
         text=extract_pdf(upload)
         st.write("Characters extracted:", len(text))
-        st.write(text[:1000])
+        # st.write(text[:1000])
     st.success("PDF extracted successfully!")
     st.subheader("Preview")
     st.write(text[:1000])
