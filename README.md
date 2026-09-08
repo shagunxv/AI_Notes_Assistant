@@ -119,11 +119,18 @@ Store the API key securely and configure it before running the application.
 ## Demo
 
 ### Upload PDF
-<img width="1366" height="768" alt="Screenshot (63)" src="C:\Users\shagu\OneDrive\Pictures\Screenshots\Screenshot (83).png" />
+<img width="1366" height="768" alt="Screenshot (63)" src=<img width="1366" height="677" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b19f2dd6-9f24-41e0-b010-a8c5760c9dcc" />
+ />
 
 
 ### Generated Summary
-<img width="1366" height="768" alt="Screenshot (62)" src="C:\Users\shagu\OneDrive\Pictures\Screenshots\Screenshot (84).png" />
+<img width="1366" height="768" alt="Screenshot (62)" src=<img width="1366" height="683" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/a4657edc-bbe2-492c-9098-557801b54efd" />
+ />
+
+
+## 🚀 Deployed link 
+
+https://summary-pdf.streamlit.app/
 
 
 ## 👩‍💻 Author
